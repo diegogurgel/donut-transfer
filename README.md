@@ -1,3 +1,5 @@
+This donut transfer visualization uses [Antv G6 Graph Visualization Engine](https://antv-g6.gitee.io/en/).
+
 ![alt](https://raw.githubusercontent.com/diegogurgel/donut-transfer/main/public/screenshot.png)
 
 # React + TypeScript + Vite
