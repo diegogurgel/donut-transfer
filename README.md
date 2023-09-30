@@ -1,6 +1,4 @@
-# Screenshot
-![alt](https://)
-
+![alt](https://raw.githubusercontent.com/diegogurgel/donut-transfer/main/public/screenshot.png)
 
 # React + TypeScript + Vite
 
